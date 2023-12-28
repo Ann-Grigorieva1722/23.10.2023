@@ -1,0 +1,14 @@
+C:\Users\fanda\source\repos\23.10\23.10\bin\Debug\23.10.exe.config
+C:\Users\fanda\source\repos\23.10\23.10\bin\Debug\23.10.exe
+C:\Users\fanda\source\repos\23.10\23.10\bin\Debug\23.10.pdb
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\23.10.csproj.AssemblyReference.cache
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\MainWindow.baml
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\MainWindow.g.cs
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\App.g.cs
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\23.10_MarkupCompile.cache
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\23.10.g.resources
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\_23._10.Properties.Resources.resources
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\23.10.csproj.GenerateResource.cache
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\23.10.csproj.CoreCompileInputs.cache
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\23.10.exe
+C:\Users\fanda\source\repos\23.10\23.10\obj\Debug\23.10.pdb
